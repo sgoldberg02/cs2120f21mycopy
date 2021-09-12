@@ -1,4 +1,9 @@
 /-
+clarksters
+seg8st; https://github.com/sgoldberg02/cs2120f21mycopy.git (should end with .git).
+-/
+
+/-
 EQUALITY
 -/
 
